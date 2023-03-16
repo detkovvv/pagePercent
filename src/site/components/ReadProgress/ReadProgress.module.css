@@ -1,0 +1,8 @@
+.progress{
+    height: 10px;
+    background: rgba(30, 175, 30, 0.4);
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
